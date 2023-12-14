@@ -2,10 +2,10 @@
 Curso Gratis de Programacion Basica en @platzi 💚 
 
 # Profes de Platzi - Team 💛💙❤️
-Por 
+Por el increible team developer
 * @freddier 💛
 * @juandc 💙
 * @teffcode ❤️
 
-
-Topics #dev 👩‍💻 #html 🩻 #css 🎨
+> [!NOTE]
+> Algunos de los Topics #dev 👩‍💻 #html 🩻 #css 🎨
