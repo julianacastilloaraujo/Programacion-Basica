@@ -1,2 +1,4 @@
 # Curso gratis de programacion basica en @platzi 💚🚀
-Está es mi primera línea en el lenguaje de programación python
+Curso Gratis de Programacion Basica en @platzi 💚 
+
+Por @freddier 💛 @juandc 💙 @teffcode ❤️ Topics #dev 👩‍💻 #html 🩻 #css 🎨
