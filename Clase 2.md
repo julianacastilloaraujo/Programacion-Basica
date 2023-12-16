@@ -48,3 +48,8 @@ enter
 <br>
 # Ejercicio 2
 perro = ciruelejo
+<br>
+enter
+<br>
+No contiene nada, solo aparece perro
+<br>
