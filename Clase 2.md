@@ -47,3 +47,4 @@ enter
 2
 <br>
 # Ejercicio 2
+perro = ciruelejo
