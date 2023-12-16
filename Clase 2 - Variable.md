@@ -7,3 +7,8 @@ a = 1
 b = 2
 * Cuando hacemos que
 c = a + b
+* El computador ejecuta lo que este despues del igual
+# Todo se guarda en la RAM
+# RAM es la forma en la que nuestra computadora guarda lo que hacemos
+
+* Cuando creamos una variable la guardamos en nuestra memoria RAM
