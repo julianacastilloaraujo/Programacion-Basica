@@ -53,3 +53,7 @@ enter
 <br>
 No contiene nada, solo aparece perro
 <br>
+perro = "ciruelejo"
+<br>
+'ciruelejo'
+
