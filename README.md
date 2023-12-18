@@ -9,3 +9,6 @@ Por el increible team developer
 
 > [!NOTE]
 > Algunos de los Topics #dev 👩‍💻 #html 🩻 #css 🎨
+
+> [!TIP]
+> about:blank 
